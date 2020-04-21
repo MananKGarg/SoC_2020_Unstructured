@@ -1,4 +1,4 @@
-# SoC_2020_Unstructured
+# SoC 2020 Unstructured
 > **Mentor - Gagan Jain**
 
 Note - Dates in certificate may not match the week in which it was completed because there were generally 1-2 problems which I left for sometime else and then had to eventually complete them for certificate.
